@@ -15,6 +15,7 @@ class AbstractDict(ABC):
 class Async(AbstractDict):
     """
     Classe que implementa a interface AbstractDict para mapear inteiros e listas de inteiros.
+    De forma assíncrona, utilizando async/await.
     """
     async def int_dict(self, ids_list: list) -> dict:
         mapped_ints = Counter(ids_list)  # Usando Counter para contar ocorrências
@@ -33,6 +34,7 @@ class Async(AbstractDict):
 class Sync(AbstractDict):
     """
     Classe que implementa a interface AbstractDict para mapear inteiros e listas de inteiros.
+    De forma síncrona, sem uso de async/await.
     """
     def int_dict(self, ids_list: list) -> dict:
         mapped_ints = Counter(ids_list)  # Usando Counter para contar ocorrências
