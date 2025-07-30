@@ -22,3 +22,4 @@ Cada Projeto de Design Pattern segue basicamente a mesma estrutura de arquivos:
 - problem.py -> Um código que pré implementação do pattern
 - solution.py -> Um código que adapta o que está em `solution.py` para a estrutura do pattern
 - description.md -> Explica sobre o pattern abordado
+- extra.py -> Esse é opcional, apenas um arquivo a mais com mais um exemplo para facilitar o entendimento
