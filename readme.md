@@ -21,7 +21,7 @@ Projeto para estudar o uso dos Design Patterns na linguagem Python. Aqui explora
 Cada Projeto de Design Pattern segue basicamente a mesma estrutura de arquivos:
 
 - main.py -> Código mostrando o conceito do pattern
-- problem.py -> Um código que pré implementação do pattern
-- solution.py -> Um código que adapta o que está em `solution.py` para a estrutura do pattern
+- problem.py -> Um código que com a pré implementação do pattern
+- solution.py -> Um código que adapta o que está em `problem.py` para a estrutura do pattern
 - description.md -> Explica sobre o pattern abordado
-- extra.py -> Esse é opcional, apenas um arquivo a mais com mais um exemplo para facilitar o entendimento
+- extra.py -> Esse é opcional, apenas um arquivo a mais com exemplos para facilitar o entendimento
