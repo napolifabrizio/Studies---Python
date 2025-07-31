@@ -1,7 +1,9 @@
 # Projeto Estudos
 
 ## Objetivo
-    Apenas documentar e compartilhar meus estudos na linguagem Python. Cada pasta é um projeto/estudo diferente! O projeto pode ter seu próprio readme ou não, depende de como eu achar o quão complicado está.
+    Apenas documentar e compartilhar meus estudos na linguagem Python. Cada pasta é um projeto/estudo
+    diferente! O projeto pode ter seu próprio readme ou não, depende de como eu achar o quão
+    complicado está.
 
 ## Guia de Projetos/Pastas
 
